@@ -1,0 +1,1 @@
+# de.mannodermaus.junit5-android-test-core
